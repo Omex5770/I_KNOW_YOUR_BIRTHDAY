@@ -16,7 +16,6 @@ funcion click2(){
     p.innerText = "Click button daragdlaa";
     p.style color = "green";
 } */
-const time = new Date()
 var ageInput = document.getElementsByTagName('input')[0];
 var birthYear = document.getElementsByTagName('h4')[0];
 var currentYear = 2025,myYear;
